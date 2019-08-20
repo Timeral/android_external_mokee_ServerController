@@ -1318,5 +1318,12 @@
     "battery": "2900 mAh",
     "display": "5.0 inch, 1920x1080 pixel(441ppi)",
     "cpuarch": "arm"
-  }
+  },
+  "pioneer": {
+    "cpu": "Qualcomm® Snapdragon™ 630",
+    "ram": "3GB",
+    "rom": "32GB",
+    "battery": "3300 mAh",
+    "display": "5.2 inch, 1920x1080 pixel(424ppi)",
+    "cpuarch": "arm64"
 }
